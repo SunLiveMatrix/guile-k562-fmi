@@ -1,0 +1,19 @@
+{
+    "startupProject": "k562",
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ],
+    "files": [
+        {
+            "file": "/home/admin/dlang-project/guile-k562/dlang-k562/k562/source/app.d",
+            "column": 28,
+            "row": 32
+        }
+    ],
+    "expandedItems": [
+        "/home/admin/dlang-project/guile-k562/dlang-k562/k562/dub.json",
+        "/home/admin/dlang-project/guile-k562/dlang-k562/k562/source"
+    ],
+    "selectedWorkspaceItem": "/home/admin/dlang-project/guile-k562/dlang-k562/k562/source/app.d"
+}

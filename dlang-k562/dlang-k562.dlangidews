@@ -1,0 +1,9 @@
+{
+    "name": "dlang-k562",
+    "description": null,
+    "projects": {
+        "k562": "k562/dub.json"
+    },
+    "includePath": {
+    }
+}
